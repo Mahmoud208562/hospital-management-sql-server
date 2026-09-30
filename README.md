@@ -149,12 +149,6 @@ SELECT * FROM dbo.Doctors;
 SELECT * FROM dbo.Appointments;
 ```
 
-## ⚠️ Important Note
-
-The setup script is designed for a **training/portfolio environment**. It recreates `HospitalManagementDB` if the database already exists.
-
-Do **not** run the setup script against a production database containing real data.
-
 ## 💾 Backup Example
 
 A commented full-backup example is included near the end of the SQL script. The backup path must exist on the machine where the SQL Server service can write the file.
@@ -182,4 +176,4 @@ Designed and implemented a relational hospital management database using Microso
 ## 👨‍💻 Author
 
 **Mahmoud Tharwat**  
-Computer Science & Information Graduate | Data Analyst | Data Scientist
+Computer Science & Information Graduate |Passionate About Data 
